@@ -44,13 +44,13 @@ To run this project, you'll need to install the following Python libraries:
 
 requirements.txt contains the necessary libraries such as:
 
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-bokeh
-gensim
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- bokeh
+- gensim
 
 ## How It Works
 1. Data Collection
