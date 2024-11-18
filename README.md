@@ -37,7 +37,7 @@ To run this project, you'll need to install the following Python libraries:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/cosmetic-ingredient-analysis.git
-   cd cosmetic-ingredient-analysis
+   cd dataset
 2. Install the required libraries:
    ```bash
    pip install -r requirements.txt
