@@ -65,9 +65,9 @@ Once the analysis is complete, the following outputs will be available:
 - Interactive Ingredient Similarity Plot: A 2D or 3D visualization that shows how ingredients in different cosmetic products relate to each other.
 - Cosmetic Product Recommendations: A list of recommended products based on ingredient similarity.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgements
+## Acknowledgements
 The dataset used in this project was sourced from Sephora. Thanks to their publicly available data on cosmetic products.
 Thanks to the creators of the libraries Word2Vec, t-SNE, and Bokeh for providing the tools that made this analysis possible.
