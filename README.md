@@ -36,11 +36,21 @@ To run this project, you'll need to install the following Python libraries:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/cosmetic-ingredient-analysis.git
+   git clone https://github.com/Himaan1502/Analysis-of-Chemical-Components-in-Cosmetic-Products.git
    cd dataset
 2. Install the required libraries:
    ```bash
    pip install -r requirements.txt
+
+requirements.txt contains the necessary libraries such as:
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+bokeh
+gensim
 
 ## How It Works
 1. Data Collection
